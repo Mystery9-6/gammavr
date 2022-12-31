@@ -17,3 +17,5 @@ The base is a 3D engine by the name of Gamma Engine by the Scratcher @littlebunn
 
 
 Report issues in this repo, or on my Scratch profile (@Mystery96)
+
+[P.S. ONLY RUN THE BASE IN TURBOWARP, THANK YOU!]

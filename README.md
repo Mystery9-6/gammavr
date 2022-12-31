@@ -8,7 +8,7 @@ If you didn't already know, GammaVR is my attempt at a proper VR engine for the 
 I have committed to this project, so it most likely won't be abandoned unless proved impossible or if other issues arise.
 
 
-The base is a 3D engine by the name of Gamma Engine by the Scratcher @littlebunny06. This will (hopefully) slowly but surely create a VR engine for Gamma Engine.
+The base is a 3D engine by the name of Gamma Engine by the Scratcher @littlebunny06. GammaVR will (hopefully) slowly but surely create a VR engine for Gamma Engine.
 
 
 
